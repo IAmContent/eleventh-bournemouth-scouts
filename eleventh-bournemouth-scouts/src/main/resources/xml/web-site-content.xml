@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<web-site>
+    <page id="index" name="Home">
+        <title>Welcome</title>
+        <content>
+            <p>
+                Welcome to the 11<sup>th</sup> Bournemouth Scout Group.
+            </p>
+            <p>
+                This web-site is under development. We're hoping
+                to add more information in the next few weeks.
+            </p>
+            <p>
+                The Scout Association provides adventurous activities and personal development opportunities for 400,000 young people
+                aged 6-25. Internationally, we have over 28 million young people enjoying the benefits of Scouting
+                across 218 countries. Personal development means promoting the physical, intellectual, social and
+                spiritual well-being of the individual, helping them achieve their full potential. In Scouting, we
+                believe that young people develop most when they are 'learning by doing,' when they are given
+                responsibility, work in teams, take acceptable risks and think for themselves.
+            </p>
+            <p>
+                Please contact the Group Scout Leader by e-mail at
+                <a href="mailto:bournemouth11th@hotmail.co.uk">bournemouth11th@hotmail.co.uk</a>
+                for information.
+            </p>
+        </content>
+    </page>
+    <page id="beavers" name="Beavers">
+        <title>Beaver Scouts</title>
+        <content>
+            <p>
+                Beaver Scouts are the youngest section of the Scouting family. 
+                Their activities are based around: making things, outdoor activities, singing, playing games, 
+                going out on visits, investigating nature, listening to stories, learning how to be safe and 
+                most importantly, making new friends.
+            </p>
+            <p>
+                Children join a Beaver Scout Colony for many reasons. It might be they have heard great things from
+                their friends about all the things the Colony gets up to every week.
+            </p>
+            <p>
+                There are a lot of Beavers at 11<sup>th</sup> Bournemouth, just waiting for you to jump in and join them! 
+            </p>
+        </content>
+        <page id="beavers-leaders" name="Beaver Leaders">
+            <title>Beaver Leaders</title>
+            <content>
+                <table style="margin:20px 0px; text-align:left">
+                    <tr>
+                        <th>Beaver Scout Leaders:</th>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Lou Branch (Robin)</td>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Jay Branch (King Louie)</td>
+                    </tr>
+                </table>
+                <table style="margin:20px 0px; text-align:left">
+                    <tr>
+                        <th>Regular Beaver Helpers:</th>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Rea</td>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Zoe</td>
+                    </tr>
+                </table>
+            </content>
+        </page>
+    </page>
+    <page id="cubs" name="Cubs">
+        <title>Cub Scouts</title>
+        <content>
+            <p>
+                Cubs, or Cub Scouts are boys and girls between the ages of 8 years and 10½ years.
+                They are divided into small groups called "Sixes". Each Six is led by a Sixer with help from a 
+                Seconder. Some packs have a Senior Sixer, usually the oldest Cub just preparing to join Scouts. 
+            </p>
+            <h3>Awards</h3>
+            <p>
+                You probably know that Cubs earn badges. These are usually red, with a yellow border and circular.
+                These can be for a whole range of subjects from Animal Lover to Writer and from Computer to 
+                World Conservationist. There are also Challenge badges to be earned. These include Outdoor Challenge 
+                and Fitness Challenge.
+            </p>
+            <p>
+                The highest award is the Chief Scout's Silver Award.                
+            </p>
+            <h3>Activities</h3>
+            <p>
+                Cubs enjoy adventurous activities. The Cubs are able to try out many adventurous activities such as 
+                Abseiling, Air Rifle Shooting, Archery and Canoeing, as well as going Camping and Hiking.
+                All activites are supervised by National Governing Body qualified instructors, many of whom are 
+                Scouters themselves. 
+            </p>
+            <p>
+                Cubs also go on outings, to Marwell Zoo and Legoland for example.
+            </p>
+        </content>
+        <page id="cubs-leaders" name="Cub Leaders">
+            <title>Cub Leaders</title>
+            <content>
+                <table style="margin:20px 0px; text-align:left">
+                    <tr>
+                        <th>Cub Scout Leaders:</th>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Louise Peake (Akela)</td>
+                    </tr>
+                </table>
+                <table style="margin:20px 0px; text-align:left">
+                    <tr>
+                        <th>Assistant Cub Scout Leaders:</th>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Lisa Poulson (Baloo)</td>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Gary Faulkner (Kaa)</td>
+                    </tr>
+                </table>
+            </content>
+        </page>
+    </page>
+    <page id="scouts" name="Scouts">
+        <title>Welcome to Scouts</title>
+        <content>
+            <p>
+                A Scout is aged between 10½ and 14 years. Scouts are young people who want to make friends and
+                develop widening interests in ways that are both educational and fun. 
+                Scouting is perfect if you want a break from the usual after-school routine of homework, 
+                games and watching television.
+            </p>
+            <h3>Uniform</h3>
+            <p>
+                Scouts wear the new teal green smart shirt, a pair of navy blue activity trousers and their 
+                Group scarf (see right). A Cub joining the Scout Section, who has gained his or her Silver Chief Scout Award, 
+                may wear that award on his or her uniform until he or she gains the Gold Chief Scout Award. 
+                He or she may also wear his or her Participation and Moving On awards.
+            </p>
+            <h3>Activities</h3>
+            <p>
+                Scout activities are about action and involvement and this means more than just camping.
+            </p>
+            <p>
+                Hiking, rock climbing, gliding, sailing, pioneering, canoeing, parascending, abseiling, putting
+                on shows and exhibitions, motor mechanics, electronics, photography - the list is endless! 
+                Scouts are also given the chance to learn skills in survival, cooking and first aid. 
+            </p>
+            <p>
+                There are often opportunities to go abroad.
+            </p>
+            <p>
+                
+            </p>
+            <p>
+                
+            </p>
+        </content>
+        <page id="scout-leaders" name="Scout Leaders">
+            <title>Scout Leaders</title>
+            <content>
+                <table style="margin:20px 0px; text-align:left">
+                    <tr>
+                        <th>Scout Leader:</th>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Jeremy Edwards</td>
+                    </tr>
+                </table>
+                <table style="margin:20px 0px; text-align:left">
+                    <tr>
+                        <th>Assistant Scout Leaders:</th>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Jack Edwards</td>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Beth Davies</td>
+                    </tr>
+                </table>
+                <table style="margin:20px 0px; text-align:left">
+                    <tr>
+                        <th>Assistant Cub Scout Leader:</th>
+                    </tr>
+                    <tr>
+                        <td style="padding:5px 20px">Lisa Poulson</td>
+                    </tr>
+                </table>
+            </content>
+        </page>
+    </page>
+    <page id="contact" name="Contact Us">
+        <title>Contact Details</title>
+        <content>
+            <p>
+                Please contact the Group Scout Leader by e-mail at
+                <a href="mailto:bournemouth11th@hotmail.co.uk">bournemouth11th@hotmail.co.uk</a>
+                for information.
+            </p>
+        </content>
+    </page>
+</web-site>
